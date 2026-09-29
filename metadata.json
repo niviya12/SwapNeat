@@ -1,0 +1,6 @@
+{
+  "name": "SWAPNEAT – Smart Reuse and Exchange Platform",
+  "description": "Tamil Nadu's dedicated platform to give what you don't need and find what you need across all 38 districts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
